@@ -1,5 +1,3 @@
-# axios-test
-
 ## Project setup
 ```
 npm install
@@ -20,5 +18,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo link
+See [Demo link](https://cli.vuejs.org/config/).

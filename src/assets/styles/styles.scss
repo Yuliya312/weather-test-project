@@ -1,0 +1,25 @@
+@import 'variables.scss';
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+* {
+  outline: none;
+}
+
+ul {
+  padding-inline-start: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: $color-text;
+  background-color: $color-white;
+}
