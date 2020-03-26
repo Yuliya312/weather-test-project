@@ -1,3 +1,6 @@
+### Demo link
+See [Demo link](https://pure-shore-89372.herokuapp.com/).
+
 ## Project setup
 ```
 npm install
@@ -8,15 +11,12 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
 ### Lints and fixes files
 ```
 npm run lint
 ```
 
-### Demo link
-See [Demo link](https://cli.vuejs.org/config/).
+### Compiles and minifies for production
+```
+npm run build
+```
